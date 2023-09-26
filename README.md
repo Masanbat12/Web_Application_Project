@@ -1,4 +1,5 @@
 # Web_Application_Project
+## The code is written in python and html Languages.
 ### A Django Web Application
 #### The purpose of this project was to setting up the Learning Log Project.
 Behind the scenes, today’s websites are rich applications that act like fully developed desktop applications. With Python, there's a robust set of tools named Django, designed explicitly for building web applications. This repository will show you how i 
